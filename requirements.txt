@@ -3,7 +3,7 @@ numpy
 matplotlib
 seaborn
 statsmodels
-pmdarima
+pmdarima==1.8.5
 scikit-learn
 yfinance
 alpha_vantage
