@@ -1,7 +1,7 @@
 # Import library
 import streamlit as st
 import pandas as pd
-from pmdarima import auto_arima
+from statsmodels.tsa.arima.model import ARIMA
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
