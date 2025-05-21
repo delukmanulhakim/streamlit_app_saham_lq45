@@ -8,3 +8,4 @@ yfinance
 alpha_vantage
 plotly
 streamlit-option-menu
+pmdarima
