@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+pmdarima
+scikit-learn
+yfinance
+alpha_vantage
+plotly
+streamlit-option-menu
