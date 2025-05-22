@@ -3,9 +3,10 @@ pandas
 numpy
 matplotlib
 seaborn
+plotly
+yfinance
 statsmodels
 scikit-learn
-yfinance
-alpha_vantage
-plotly
+pmdarima
 streamlit-option-menu
+alpha_vantage
