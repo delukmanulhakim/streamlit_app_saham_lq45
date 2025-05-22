@@ -1,23 +1,19 @@
-# Core dependencies needed first
 numpy>=1.21.2
 Cython!=0.29.18,!=0.29.31
-scipy>=1.3.2
 pandas>=1.3
 scikit-learn>=0.22
+scipy>=1.3.2
 statsmodels>=0.13.2
+urllib3
 setuptools>=58
 wheel
-packaging
+packaging>=17.1
 
-# Baru kemudian pmdarima
-pmdarima
-
-# Streamlit & lainnya
+pmdarima==2.0.4
+yfinance
+alpha_vantage
 streamlit
 streamlit-option-menu
 matplotlib
 seaborn
 plotly
-yfinance
-alpha_vantage
-
